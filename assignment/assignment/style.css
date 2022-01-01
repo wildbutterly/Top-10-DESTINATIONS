@@ -1,0 +1,19 @@
+main{
+    position: absolute;
+}
+
+h1 {
+color:greenyellow;
+}
+
+body {
+    background-color: rgb(100, 10, 50);
+} 
+
+img {
+    width: 100%;
+}
+
+h3:hover {
+    background-color: yellow; 
+}
